@@ -43,17 +43,17 @@ The CTX-AWS module requires the following files:
 * [CTX-AWS Studio Package](https://github.com/CortexIATest/CTXExcel/releases/download/untagged-735f460df6f7d65c9d19/Cortex.Studio.Package.-.V2.2.studiopkg)
 
 ### Other Requisites
-The CTX-AWS module has the following additional requirements which are explained in detail in the [Deployment Plan](#Installation):
+The CTX-AWS module has the following additional requirements which are explained in detail in the [Deployment Plan](https://github.com/CortexProjectsDepartment/CTX-AWS/blob/master/CTX-AWS%20-%20Deployment%20Plan.pdf):
 * To use the AWS Tools for Windows PowerShell or the AWS Tools for PowerShell Core, you must have an
 AWS account.
 * PowerShell v5 to be installed on the application server
 * AWSPowerShell module installed
 
 ## Installation
-Details of how the module should be imported into Cortex can be found in the [Deployment Plan](#Installation).
+Details of how the module should be imported into Cortex can be found in the [Deployment Plan](https://github.com/CortexProjectsDepartment/CTX-AWS/blob/master/CTX-AWS%20-%20Deployment%20Plan.pdf).
 
 ## How to use
-A detailed User Guide has been provided with instructions on how to use the flows/subtasks, available [here](https://github.com/CortexIATest/CTXExcel/blob/master/CTXExcel%20-%20LLD%20-%20v2.2.docx). Configuration of subtask inputs and outputs are detailed in notes on the subtask workspace.
+A detailed User Guide has been provided with instructions on how to use the flows/subtasks, available [here](https://github.com/CortexProjectsDepartment/CTX-AWS/blob/master/CTX-AWS%20-%20User%20Guide.pdf). Configuration of subtask inputs and outputs are detailed in notes on the subtask workspace.
 
 ## How you can contribute
 Unfortunately, we cannot offer pull requests at this time or accept any improvements.
