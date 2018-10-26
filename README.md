@@ -23,7 +23,7 @@ The module allows users to perform the following functionality:
     * [Cortex Version](#cortex-version)
     * [OCIs](#ocis)
     * [Files](#files)
-    * [Other](#other)
+    * [Other](#other-requisites)
 1) [Installation](#installation)
 1) [How to use](#how-to-use)
 1) [How you can contribute](#how-you-can-contribute)
