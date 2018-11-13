@@ -40,7 +40,7 @@ The CTX-AWS module requires the following Cortex OCIs:
 
 ### Files
 The CTX-AWS module requires the following files:
-* [CTX-AWS Studio Package](https://github.com/CortexIntelligentAutomation/CTX-AWS/releases/download/v1.1/CTX-AWS.studiopkg)
+* [CTX-AWS Studio Package](https://github.com/CortexIntelligentAutomation/CTX-IP-Tools/releases/download/1.0/CTX-IP-Tools.studiopkg)
 
 ### Other Requisites
 The CTX-AWS module has the following additional requirements which are explained in detail in the [Deployment Plan](https://github.com/CortexProjectsDepartment/CTX-AWS/blob/master/CTX-AWS%20-%20Deployment%20Plan.pdf):
