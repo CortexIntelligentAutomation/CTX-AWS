@@ -24,6 +24,7 @@ The module allows users to perform the following functionality:
     * [OCIs](#ocis)
     * [Files](#files)
     * [Other](#other-requisites)
+1) [Support and Warranty](#support-and-warranty)
 1) [Installation](#installation)
 1) [How to use](#how-to-use)
 1) [How you can contribute](#how-you-can-contribute)
@@ -48,6 +49,9 @@ The CTX-AWS module has the following additional requirements which are explained
 AWS account.
 * PowerShell v5 to be installed on the application server
 * AWSPowerShell module installed
+
+## Support and Warranty 
+This module is supplied as a template that you can amend and extend to fit your requirements, as such it is not supported as part of the Cortex Product suite under the Cortex product support agreement.
 
 ## Installation
 Details of how the module should be imported into Cortex can be found in the [Deployment Plan](https://github.com/CortexProjectsDepartment/CTX-AWS/blob/master/CTX-AWS%20-%20Deployment%20Plan.pdf).
